@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lefinno/Documents/Engineering/Personal/Timer/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/timer.dir/main.cpp.o -c /home/lefinno/Documents/Engineering/Personal/Timer/main.cpp",
+  "file": "/home/lefinno/Documents/Engineering/Personal/Timer/main.cpp",
+  "output": "CMakeFiles/timer.dir/main.cpp.o"
+}
+]

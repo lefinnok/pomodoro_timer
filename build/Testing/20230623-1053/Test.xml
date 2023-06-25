@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20230623-1053-Experimental"
+	Name="lefinno-tux"
+	Generator="ctest-3.26.4"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="13.1.1"
+	OSName="Linux"
+	Hostname="lefinno-tux"
+	OSRelease="6.3.8-arch1-1"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Wed, 14 Jun 2023 20:10:31 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="154"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="20"
+	NumberOfPhysicalCPU="14"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="64047"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="4368.73"
+	>
+	<Testing>
+		<StartDateTime>Jun 23 21:22 HKT</StartDateTime>
+		<StartTestTime>1687526570</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 23 21:22 HKT</EndDateTime>
+		<EndTestTime>1687526570</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
