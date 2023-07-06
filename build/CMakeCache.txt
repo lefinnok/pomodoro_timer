@@ -302,6 +302,9 @@ CURSES_NCURSES_LIBRARY:FILEPATH=/usr/lib/libncurses.so
 //Maximum time allowed before CTest will kill the test.
 DART_TESTING_TIMEOUT:STRING=1500
 
+//Path to a program.
+GITCOMMAND:FILEPATH=/usr/bin/git
+
 //Command to build the project
 MAKECOMMAND:STRING=/usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 
@@ -532,6 +535,8 @@ CURSES_NCURSES_LIBRARY-ADVANCED:INTERNAL=1
 DART_TESTING_TIMEOUT-ADVANCED:INTERNAL=1
 //Details about finding Curses
 FIND_PACKAGE_MESSAGE_DETAILS_Curses:INTERNAL=[/usr/lib/libcurses.so][/usr/include][v()]
+//ADVANCED property for variable: GITCOMMAND
+GITCOMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: MAKECOMMAND
 MAKECOMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: MEMORYCHECK_COMMAND
